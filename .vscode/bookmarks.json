@@ -1,0 +1,24 @@
+{
+	"files": [
+		{
+			"path": "packages/node_modules/@node-red/util/lib/exec.js",
+			"bookmarks": [
+				{
+					"line": 51,
+					"column": 4,
+					"label": "node-red 的exec.run 异步返回Promise"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/installer.js",
+			"bookmarks": [
+				{
+					"line": 227,
+					"column": 73,
+					"label": "node-red 通过外部module安装依赖库"
+				}
+			]
+		}
+	]
+}
