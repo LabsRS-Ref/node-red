@@ -19,6 +19,71 @@
 					"label": "node-red 通过外部module安装依赖库"
 				}
 			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/externalModules.js",
+			"bookmarks": [
+				{
+					"line": 89,
+					"column": 22,
+					"label": "根据module名称注册模块"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/library.js",
+			"bookmarks": [
+				{
+					"line": 90,
+					"column": 0,
+					"label": "流程节点示例库管理"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/loader.js",
+			"bookmarks": [
+				{
+					"line": 27,
+					"column": 0,
+					"label": "节点，外部模块 ... 加载器"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/plugins.js",
+			"bookmarks": [
+				{
+					"line": 143,
+					"column": 0,
+					"label": "插件管理"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/registry/lib/registry.js",
+			"bookmarks": [
+				{
+					"line": 707,
+					"column": 0,
+					"label": "仓库管理"
+				}
+			]
+		},
+		{
+			"path": "packages/node_modules/@node-red/runtime/lib/index.js",
+			"bookmarks": [
+				{
+					"line": 15,
+					"column": 0,
+					"label": "运行时提供对外的API"
+				},
+				{
+					"line": 88,
+					"column": 0,
+					"label": "两个express实例 nodeApp 及 adminApp"
+				}
+			]
 		}
 	]
 }
